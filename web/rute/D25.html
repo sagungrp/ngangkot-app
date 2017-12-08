@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ng-angkot D25</title>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+	<nav class="w3-sidebar w3-bar-block w3-card-2 w3-white" style="width:30%;display:none" id="mySidebar">
+	<div class="w3-container w3-theme-d2">
+	  <span onclick="w3_close()" class="w3-closenav w3-right w3-xlarge">x</span>
+	  <br>
+	  <div class="w3-padding w3-center">
+	  </div>
+	</div>
+	<a class="w3-bar-item w3-button" href="../">HOME</a>
+	<a class="w3-bar-item w3-button" href="D01.html">D01</a>
+	<a class="w3-bar-item w3-button" href="D02.html">D02</a>
+	<a class="w3-bar-item w3-button" href="D03.html">D03</a>
+	<a class="w3-bar-item w3-button" href="D04.html">D04</a>
+	<a class="w3-bar-item w3-button" href="D05.html">D05</a>
+	<a class="w3-bar-item w3-button" href="D06.html">D06</a>
+	<a class="w3-bar-item w3-button" href="D07.html">D07</a>
+	<a class="w3-bar-item w3-button w3-disabled" href="D07A.html">D07A</a>
+	<a class="w3-bar-item w3-button" href="D08.html">D08</a>
+	<a class="w3-bar-item w3-button" href="D09.html">D09</a>
+	<a class="w3-bar-item w3-button" href="D10.html">D10</a>
+	<a class="w3-bar-item w3-button" href="D11.html">D11</a>
+	<a class="w3-bar-item w3-button" href="D15.html">D15</a>
+	<a class="w3-bar-item w3-button" href="D17.html">D17</a>
+	<a class="w3-bar-item w3-button" href="D21.html">D21</a>
+	<a class="w3-bar-item w3-button" href="D25.html">D25</a>
+	<a class="w3-bar-item w3-button" href="D26.html">D26</a>
+	<a class="w3-bar-item w3-button" href="D27.html">D27</a>
+	<a class="w3-bar-item w3-button" href="D35.html">D35</a>
+	<a class="w3-bar-item w3-button" href="D35A.html">D35A</a>
+	<a class="w3-bar-item w3-button" href="D69.html">D69</a>
+	
+	</nav>
+	
+	<header class="w3-container w3-card-4 w3-theme">
+	  <h1>
+	  <i class="w3-opennav fa fa-bars" onclick="w3_open()"></i>
+	  D25
+	  </h1>
+	</header>
+	
+    <div id="map"></div>
+    <script>
+		var map;
+		function initMap() {
+			map = new google.maps.Map(document.getElementById('map'), {
+			  zoom: 14,
+			  center: {lat: -6.401971, lng: 106.796987}
+			});
+
+			// NOTE: This uses cross-domain XHR, and may not work on older browsers.
+			map.data.loadGeoJson(
+				'../json/D25.json');
+				
+			map.data.setStyle({
+			  strokeColor: 'green',
+			  strokeWeight: 2
+			});
+		}
+	  
+		function w3_open() {
+			document.getElementById("mySidebar").style.display = "block";
+		}
+		function w3_close() {
+			document.getElementById("mySidebar").style.display = "none";
+		}
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1_3FpKQCfUlIE7MG0620z3_NiHMDjOyg&callback=initMap">
+    </script>
+  </body>
+</html>
