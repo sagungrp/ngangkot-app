@@ -1,0 +1,159 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="878" measuredH="721" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="78" y="121" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ngangkot%0Ahttp%3A//ngangkot.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="78" y="274" w="220" h="27" measuredW="152" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Web%20-%20Add%20Route%26bm%3BWeb%20-%20Add%20Route.bmml%26bm%3BWeb%20-%20Add%20Route.bmml%26bm%3BWeb%20-%20Add%20Route.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C153%2C91%2C180%22%20href%3D%22Web%2520-%2520Add%2520Route.bmml%22%20alt%3D%22Web%20-%20Add%20Route%22%20id%3D%221%22/%3E</map>
+        <selectedIndex>1</selectedIndex>
+        <text>Trayek%2C%20Pengemudi</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="100" y="218" w="-1" h="-1" measuredW="176" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ngangkot</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::VRule" x="292" y="193" w="-1" h="500" measuredW="10" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="332" w="53" h="53" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="394" w="53" h="53" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="489" w="53" h="53" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="551" w="53" h="53" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="612" w="53" h="53" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="78" y="322" w="220" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="133" y="303" w="-1" h="-1" measuredW="121" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Belum%20Terverifikasi</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="168" y="347" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Andi</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="168" y="409" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Budi</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="168" y="505" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Web%20-%20See%20Confirmed%20Drivers%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C384%2C118%2C406%22%20href%3D%22Web%2520-%2520See%2520Confirmed%2520Drivers.bmml%22%20alt%3D%22Web%20-%20See%20Confirmed%20Drivers%22%20id%3D%2215%22/%3E</map>
+        <size>14</size>
+        <text>Endi</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="168" y="567" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Web%20-%20See%20Confirmed%20Drivers%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C446%2C119%2C468%22%20href%3D%22Web%2520-%2520See%2520Confirmed%2520Drivers.bmml%22%20alt%3D%22Web%20-%20See%20Confirmed%20Drivers%22%20id%3D%2216%22/%3E</map>
+        <size>14</size>
+        <text>Hadi</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="168" y="629" w="-1" h="-1" measuredW="50" measuredH="22" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Web%20-%20See%20Confirmed%20Drivers%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C508%2C140%2C530%22%20href%3D%22Web%2520-%2520See%2520Confirmed%2520Drivers.bmml%22%20alt%3D%22Web%20-%20See%20Confirmed%20Drivers%22%20id%3D%2217%22/%3E</map>
+        <size>14</size>
+        <text>Markodi</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::LineOfText" x="349" y="286" w="-1" h="-1" measuredW="200" measuredH="27" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Title" x="349" y="229" w="-1" h="-1" measuredW="114" measuredH="23" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Biodata%20Andi</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::LineOfText" x="549" y="286" w="-1" h="-1" measuredW="200" measuredH="27" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::LineOfText" x="349" y="322" w="-1" h="-1" measuredW="200" measuredH="27" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::LineOfText" x="549" y="322" w="-1" h="-1" measuredW="200" measuredH="27" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::LineOfText" x="349" y="360" w="200" h="27" measuredW="200" measuredH="27" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::LineOfText" x="549" y="360" w="200" h="27" measuredW="200" measuredH="27" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::LineOfText" x="349" y="397" w="200" h="27" measuredW="200" measuredH="27" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::LineOfText" x="549" y="400" w="200" h="27" measuredW="200" measuredH="27" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="349" y="464" w="152" h="79" measuredW="77" measuredH="79" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Image" x="512" y="464" w="152" h="79" measuredW="77" measuredH="79" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Image" x="679" y="464" w="152" h="79" measuredW="77" measuredH="79" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="675" y="610" w="107" h="40" measuredW="83" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Konfirmasi</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="403" y="489" w="-1" h="-1" measuredW="40" measuredH="28" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>KTP</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="568" y="489" w="-1" h="-1" measuredW="36" measuredH="28" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>SIM</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="728" y="489" w="-1" h="-1" measuredW="54" measuredH="28" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>STNK</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::TextInput" x="815" y="193" w="-1" h="-1" measuredW="46" measuredH="24" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::HRule" x="78" y="447" w="220" h="-1" measuredW="100" measuredH="10" zOrder="34" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::HRule" x="78" y="479" w="220" h="-1" measuredW="100" measuredH="10" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="153" y="457" w="-1" h="-1" measuredW="78" measuredH="22" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Terverifikasi</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Button" x="405" y="610" w="107" h="40" measuredW="53" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tolak</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="78" y="327" w="220" h="67" measuredW="48" measuredH="24" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Andi</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="332" w="53" h="53" measuredW="32" measuredH="32" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

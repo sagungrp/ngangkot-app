@@ -1,0 +1,120 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="320" measuredH="613" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhone" x="38" y="40" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="65" y="138" w="229" h="-1" measuredW="116" measuredH="35" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>24</size>
+        <text>Ngangkot</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="201" w="229" h="82" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pengemudi%20side%20-%20on%20route%20view%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C161%2C256%2C243%22%20href%3D%22Pengemudi%2520side%2520-%2520on%2520route%2520view.bmml%22%20alt%3D%22Pengemudi%20side%20-%20on%20route%20view%22%20id%3D%2210%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SearchBox" x="65" y="174" w="229" h="-1" measuredW="120" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>manggarai</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="73" y="219" w="65" h="39" measuredW="65" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>30%2C636%2C275%2C80</crop>
+        <src>./assets/mockup7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="142" y="219" w="65" h="-1" measuredW="65" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Angkot%20121</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="80" y="258" w="127" h="-1" measuredW="127" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manggarai%20-%20Ragunan</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="283" w="229" h="82" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pengemudi%20side%20-%20on%20route%20view%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C243%2C256%2C325%22%20href%3D%22Pengemudi%2520side%2520-%2520on%2520route%2520view.bmml%22%20alt%3D%22Pengemudi%20side%20-%20on%20route%20view%22%20id%3D%2228%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="73" y="301" w="65" h="39" measuredW="65" measuredH="33" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>30%2C636%2C275%2C80</crop>
+        <src>./assets/mockup7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="142" y="301" w="65" h="-1" measuredW="67" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Angkot%20137</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="80" y="340" w="127" h="-1" measuredW="112" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manggarai%20-%20Depok</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="365" w="229" h="82" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pengemudi%20side%20-%20on%20route%20view%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C325%2C256%2C407%22%20href%3D%22Pengemudi%2520side%2520-%2520on%2520route%2520view.bmml%22%20alt%3D%22Pengemudi%20side%20-%20on%20route%20view%22%20id%3D%2232%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="73" y="383" w="65" h="39" measuredW="65" measuredH="33" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>30%2C636%2C275%2C80</crop>
+        <src>./assets/mockup7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="142" y="383" w="65" h="-1" measuredW="67" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Angkot%20513</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="80" y="422" w="127" h="-1" measuredW="101" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manggarai%20-%20Kota</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="447" w="229" h="82" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pengemudi%20side%20-%20on%20route%20view%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C407%2C256%2C489%22%20href%3D%22Pengemudi%2520side%2520-%2520on%2520route%2520view.bmml%22%20alt%3D%22Pengemudi%20side%20-%20on%20route%20view%22%20id%3D%2236%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="73" y="465" w="65" h="39" measuredW="65" measuredH="33" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>30%2C636%2C275%2C80</crop>
+        <src>./assets/mockup7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="142" y="465" w="65" h="-1" measuredW="69" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Angkot%20655</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="80" y="504" w="127" h="-1" measuredW="107" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manggarai%20-%20Ancol</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Alert" x="79" y="272" w="-1" h="-1" measuredW="200" measuredH="117" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Pengemudi%20side%20-%20List%20of%20route%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml%2CPengemudi%20side%20-%20on%20route%20view%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml%26bm%3BPengemudi%20side%20-%20on%20route%20view.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C311%2C140%2C348%22%20href%3D%22Pengemudi%2520side%2520-%2520List%2520of%2520route.bmml%22%20alt%3D%22Pengemudi%20side%20-%20List%20of%20route%22%20id%3D%2241%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C311%2C240%2C348%22%20href%3D%22Pengemudi%2520side%2520-%2520on%2520route%2520view.bmml%22%20alt%3D%22Pengemudi%20side%20-%20on%20route%20view%22%20id%3D%2241%22/%3E</map>
+        <text>Alert%0AAnda%20ingin%20narik%20di%20rute%20121%0ANo%2C%20Yes</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

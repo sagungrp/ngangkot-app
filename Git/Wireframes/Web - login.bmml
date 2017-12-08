@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="862" measuredH="645" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="62" y="45" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ngangkot%20-%20Login%0Ahttp%3A//ngangkot.com/adminlogin</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="405" y="210" w="114" h="59" measuredW="65" measuredH="33" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>30%2C636%2C275%2C80</crop>
+        <src>./assets/mockup7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="308" y="300" w="308" h="179" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="409" y="261" w="-1" h="-1" measuredW="106" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <italic>true</italic>
+        <size>24</size>
+        <text>Ngangkot</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="327" y="437" w="-1" h="-1" measuredW="53" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Web%20-%20See%20Routes%26bm%3BWeb%20-%20See%20Routes.bmml%26bm%3BWeb%20-%20See%20Routes.bmml%26bm%3BWeb%20-%20See%20Routes.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22265%2C392%2C318%2C416%22%20href%3D%22Web%2520-%2520See%2520Routes.bmml%22%20alt%3D%22Web%20-%20See%20Routes%22%20id%3D%225%22/%3E</map>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="323" y="404" w="278" h="-1" measuredW="79" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::LineOfText" x="323" y="408" w="141" h="19" measuredW="200" measuredH="27" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="323" y="345" w="278" h="-1" measuredW="37" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Joko</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="323" y="319" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="323" y="375" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="505" y="441" w="-1" h="-1" measuredW="96" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Forgot%20account%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

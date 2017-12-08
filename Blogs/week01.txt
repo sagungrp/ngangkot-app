@@ -1,0 +1,6 @@
+Week 01 : Project Vision
+
+This week is an exercise in research. It turns out (rather unsurprisingly) that to build a working industry-standard you have to jump quite a lot of hoops. 
+
+The result of the first Ideation session had the team cramping too much things on the problem scope. The original problem presented to us 
+by Mr. Setiadi was to reduce 'ngetem' time and .

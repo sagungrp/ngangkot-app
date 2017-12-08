@@ -1,0 +1,81 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="369" measuredH="663" mockupW="307" mockupH="601">
+  <controls>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Canvas" x="89" y="201" w="252" h="378" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::iPhone" x="62" y="62" w="307" h="601" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::TextInput" x="96" y="163" w="239" h="-1" measuredW="116" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>24</size>
+        <text>Ngangkot</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="95" y="416" w="238" h="165" measuredW="226" measuredH="160" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Map" x="96" y="201" w="239" h="177" measuredW="252" measuredH="222" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="105" y="383" w="-1" h="-1" measuredW="14" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>To</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="105" y="392" w="213" h="-1" measuredW="168" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::PointyButton" x="104" y="167" w="-1" h="-1" measuredW="30" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <href>Penumpang%20side%20-%20setup%20route%26bm%3BPenumpang%20side%20-%20setup%20route.bmml%26bm%3BPenumpang%20side%20-%20setup%20route.bmml%26bm%3BPenumpang%20side%20-%20setup%20route.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C105%2C72%2C132%22%20href%3D%22Penumpang%2520side%2520-%2520setup%2520route.bmml%22%20alt%3D%22Penumpang%20side%20-%20setup%20route%22%20id%3D%2267%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::List" x="105" y="216" w="222" h="161" measuredW="100" measuredH="173" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0A%20%20%20%20%20%20%20%20Pondok%20Indah%0A%20%0A%20%20%20%20%20%20%20%20%20Bukit%20Duri%0A%20%0A%20%20%20%20%20%20%20%20%20Kuningan%0A%20%20%0A%20%20%20%20%20%20%20%20%20Kampung%20Sawah</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Image" x="115" y="238" w="26" h="26" measuredW="128" measuredH="128" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1487681448_map-location-pin-map-marker-glyph.png</src>
+        <text/>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::HRule" x="105" y="310" w="206" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::HRule" x="105" y="269" w="206" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::HRule" x="105" y="353" w="206" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="105" y="201" w="221" h="27" measuredW="82" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Penumpang%20side%20-%20Map%20search%20to%26bm%3BPenumpang%20side%20-%20Map%20search%20to.bmml%26bm%3BPenumpang%20side%20-%20Map%20search%20to.bmml%26bm%3BPenumpang%20side%20-%20Map%20search%20to.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C139%2C264%2C166%22%20href%3D%22Penumpang%2520side%2520-%2520Map%2520search%2520to.bmml%22%20alt%3D%22Penumpang%20side%20-%20Map%20search%20to%22%20id%3D%2273%22/%3E</map>
+        <text>Open%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Image" x="115" y="282" w="26" h="26" measuredW="128" measuredH="128" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1487681448_map-location-pin-map-marker-glyph.png</src>
+        <text/>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Image" x="115" y="323" w="26" h="26" measuredW="128" measuredH="128" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1487681448_map-location-pin-map-marker-glyph.png</src>
+        <text/>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::VSlider" x="311" y="228" w="-1" h="150" measuredW="11" measuredH="33" zOrder="16" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

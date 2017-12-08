@@ -1,0 +1,72 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1092" measuredH="749" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="292" y="149" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ngangkot%0Ahttp%3A//ngangkot.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="292" y="304" w="220" h="27" measuredW="152" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CWeb%20-%20See%20Confirmed%20Drivers%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml%26bm%3BWeb%20-%20See%20Confirmed%20Drivers.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2291%2C155%2C219%2C182%22%20href%3D%22Web%2520-%2520See%2520Confirmed%2520Drivers.bmml%22%20alt%3D%22Web%20-%20See%20Confirmed%20Drivers%22%20id%3D%221%22/%3E</map>
+        <selectedIndex>0</selectedIndex>
+        <text>Trayek%2C%20Pengemudi</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="314" y="246" w="-1" h="-1" measuredW="176" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ngangkot</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::VRule" x="506" y="221" w="-1" h="500" measuredW="10" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Map" x="512" y="221" w="574" h="500" measuredW="252" measuredH="222" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="292" y="671" w="220" h="50" measuredW="145" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Web%20-%20Add%20Route%26bm%3BWeb%20-%20Add%20Route.bmml%26bm%3BWeb%20-%20Add%20Route.bmml%26bm%3BWeb%20-%20Add%20Route.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C522%2C220%2C572%22%20href%3D%22Web%2520-%2520Add%2520Route.bmml%22%20alt%3D%22Web%20-%20Add%20Route%22%20id%3D%2245%22/%3E</map>
+        <size>16</size>
+        <text>+%20Tambah%20Trayek</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextInput" x="1027" y="221" w="-1" h="-1" measuredW="46" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextArea" x="292" y="325" w="220" h="54" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20KR%0A%20%20%20%20%20Pondok%20Gede%20-%20Taman%20Mini</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::TextArea" x="292" y="377" w="220" h="54" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20KR%0A%20%20%20%20%20Pondok%20Gede%20-%20Taman%20Mini</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::TextArea" x="292" y="429" w="220" h="54" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20KR%0A%20%20%20%20%20Pondok%20Gede%20-%20Taman%20Mini</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::TextArea" x="292" y="481" w="220" h="54" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20KR%0A%20%20%20%20%20Pondok%20Gede%20-%20Taman%20Mini</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::TextArea" x="292" y="533" w="220" h="54" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20KR%0A%20%20%20%20%20Pondok%20Gede%20-%20Taman%20Mini</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::TextArea" x="292" y="581" w="220" h="54" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20KR%0A%20%20%20%20%20Pondok%20Gede%20-%20Taman%20Mini</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TextArea" x="292" y="633" w="220" h="39" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20KR%0A%20%20%20%20%20Pondok%20Gede%20-%20Taman%20Mini</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

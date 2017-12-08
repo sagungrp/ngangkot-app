@@ -1,0 +1,114 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="348" measuredH="640" mockupW="307" mockupH="601">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="41" y="39" w="307" h="601" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="57" y="121" w="274" h="449" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="144" y="152" w="101" h="52" measuredW="65" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>30%2C636%2C275%2C80</crop>
+        <src>./assets/mockup7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="144" y="196" w="-1" h="-1" measuredW="106" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <italic>true</italic>
+        <size>24</size>
+        <text>Ngangkot</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::TextInput" x="166" y="297" w="142" h="-1" measuredW="79" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="166" y="238" w="142" h="-1" measuredW="79" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="124" y="482" w="142" h="27" measuredW="72" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pengemudi%20side%20-%20Register%20sent%26bm%3BPengemudi%20side%20-%20Register%20sent.bmml%26bm%3BPengemudi%20side%20-%20Register%20sent.bmml%26bm%3BPengemudi%20side%20-%20Register%20sent.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C443%2C225%2C470%22%20href%3D%22Pengemudi%2520side%2520-%2520Register%2520sent.bmml%22%20alt%3D%22Pengemudi%20side%20-%20Register%20sent%22%20id%3D%2243%22/%3E</map>
+        <text>Register</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::DateChooser" x="166" y="266" w="-1" h="-1" measuredW="90" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::SubTitle" x="79" y="246" w="-1" h="-1" measuredW="35" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Nama</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::SubTitle" x="79" y="274" w="-1" h="-1" measuredW="80" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Tanggal%20Lahir</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::SubTitle" x="79" y="304" w="-1" h="-1" measuredW="78" measuredH="16" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Tempat%20Lahir</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextInput" x="166" y="327" w="142" h="-1" measuredW="79" measuredH="23" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::SubTitle" x="79" y="331" w="-1" h="-1" measuredW="45" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>No%20Telp</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::SubTitle" x="79" y="398" w="-1" h="-1" measuredW="36" measuredH="16" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>SIM%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Button" x="166" y="363" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upload</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::SubTitle" x="79" y="371" w="-1" h="-1" measuredW="26" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>KTP</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Button" x="166" y="394" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upload</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::SubTitle" x="79" y="433" w="-1" h="-1" measuredW="35" measuredH="16" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>STNK</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Button" x="166" y="425" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upload</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

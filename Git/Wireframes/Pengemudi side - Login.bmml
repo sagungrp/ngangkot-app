@@ -1,0 +1,55 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="348" measuredH="640" mockupW="307" mockupH="601">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="41" y="39" w="307" h="601" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="57" y="121" w="274" h="449" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="144" y="212" w="101" h="52" measuredW="65" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>30%2C636%2C275%2C80</crop>
+        <src>./assets/mockup7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="141" y="256" w="-1" h="-1" measuredW="106" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <italic>true</italic>
+        <size>24</size>
+        <text>Ngangkot</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="123" y="386" w="142" h="27" measuredW="53" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pengemudi%20side%20-%20List%20of%20route%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2282%2C347%2C224%2C374%22%20href%3D%22Pengemudi%2520side%2520-%2520List%2520of%2520route.bmml%22%20alt%3D%22Pengemudi%20side%20-%20List%20of%20route%22%20id%3D%2239%22/%3E</map>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::TextInput" x="123" y="345" w="142" h="-1" measuredW="79" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::LineOfText" x="123" y="349" w="138" h="19" measuredW="200" measuredH="27" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="123" y="303" w="142" h="-1" measuredW="37" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Joko</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="123" y="511" w="142" h="27" measuredW="72" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pengemudi%20side%20-%20Register%26bm%3BPengemudi%20side%20-%20Register.bmml%26bm%3BPengemudi%20side%20-%20Register.bmml%26bm%3BPengemudi%20side%20-%20Register.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2282%2C472%2C224%2C499%22%20href%3D%22Pengemudi%2520side%2520-%2520Register.bmml%22%20alt%3D%22Pengemudi%20side%20-%20Register%22%20id%3D%2243%22/%3E</map>
+        <text>Register</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

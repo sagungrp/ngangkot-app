@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="323" measuredH="614" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="68" y="236" w="229" h="296" measuredW="236" measuredH="303" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C277%2C1000%2C723</crop>
+        <src>./assets/mockup8.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhone" x="41" y="41" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="68" y="140" w="229" h="-1" measuredW="116" measuredH="35" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>24</size>
+        <text>Ngangkot</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="68" y="173" w="229" h="63" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="151" y="193" w="78" h="-1" measuredW="65" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Angkot%20121</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="76" y="216" w="219" h="-1" measuredW="127" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manggarai%20-%20Ragunan</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="76" y="187" w="64" h="33" measuredW="65" measuredH="33" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>30%2C636%2C275%2C80</crop>
+        <src>./assets/mockup7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::PointyButton" x="76" y="144" w="-1" h="-1" measuredW="30" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <href>Pengemudi%20side%20-%20List%20of%20route%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml%26bm%3BPengemudi%20side%20-%20List%20of%20route.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C103%2C65%2C130%22%20href%3D%22Pengemudi%2520side%2520-%2520List%2520of%2520route.bmml%22%20alt%3D%22Pengemudi%20side%20-%20List%20of%20route%22%20id%3D%227%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

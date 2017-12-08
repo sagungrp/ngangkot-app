@@ -1,0 +1,69 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="369" measuredH="663" mockupW="307" mockupH="601">
+  <controls>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Canvas" x="89" y="201" w="252" h="378" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::iPhone" x="62" y="62" w="307" h="601" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::TextInput" x="96" y="163" w="239" h="-1" measuredW="116" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>24</size>
+        <text>Ngangkot</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Map" x="96" y="201" w="239" h="327" measuredW="252" measuredH="222" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="115" y="534" w="-1" h="-1" measuredW="14" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>To</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="109" y="543" w="213" h="-1" measuredW="168" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Penumpang%20side%20-%20Location%20search%20from%26bm%3BPenumpang%20side%20-%20Location%20search%20from.bmml%26bm%3BPenumpang%20side%20-%20Location%20search%20from.bmml%26bm%3BPenumpang%20side%20-%20Location%20search%20from.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2247%2C481%2C260%2C502%22%20href%3D%22Penumpang%2520side%2520-%2520Location%2520search%2520from.bmml%22%20alt%3D%22Penumpang%20side%20-%20Location%20search%20from%22%20id%3D%2266%22/%3E</map>
+        <text>%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::PointyButton" x="104" y="167" w="-1" h="-1" measuredW="30" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <href>Penumpang%20side%20-%20setup%20route%26bm%3BPenumpang%20side%20-%20setup%20route.bmml%26bm%3BPenumpang%20side%20-%20setup%20route.bmml%26bm%3BPenumpang%20side%20-%20setup%20route.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C105%2C72%2C132%22%20href%3D%22Penumpang%2520side%2520-%2520setup%2520route.bmml%22%20alt%3D%22Penumpang%20side%20-%20setup%20route%22%20id%3D%2267%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::iPadPopover" x="129" y="366" w="179" h="53" measuredW="222" measuredH="187" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <popoverArrowPosition>2</popoverArrowPosition>
+        <popoverArrowSide>bottom</popoverArrowSide>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Image" x="141" y="369" w="26" h="26" measuredW="128" measuredH="128" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1487681448_map-location-pin-map-marker-glyph.png</src>
+        <text/>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::VRule" x="300" y="366" w="-1" h="32" measuredW="10" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::HRule" x="129" y="361" w="176" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::HRule" x="129" y="395" w="176" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="182" y="372" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Penumpang%20side%20-%20setup%20route%26bm%3BPenumpang%20side%20-%20setup%20route.bmml%26bm%3BPenumpang%20side%20-%20setup%20route.bmml%26bm%3BPenumpang%20side%20-%20setup%20route.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C310%2C195%2C331%22%20href%3D%22Penumpang%2520side%2520-%2520setup%2520route.bmml%22%20alt%3D%22Penumpang%20side%20-%20setup%20route%22%20id%3D%2287%22/%3E</map>
+        <text>Set%20Location</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
